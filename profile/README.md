@@ -1,4 +1,4 @@
-<img style="padding: 20px" src="https://github.com/onepayph/.github/blob/main/assets/header.png">
+<img src="https://github.com/onepayph/.github/blob/main/assets/header.png">
 
 ## Get Involved
 
